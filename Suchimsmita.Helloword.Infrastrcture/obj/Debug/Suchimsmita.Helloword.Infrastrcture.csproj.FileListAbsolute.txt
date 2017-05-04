@@ -1,0 +1,5 @@
+E:\GithubLocal\DotNetLearning\Console Applications\Suchimsmita.Console.Helloworld\Suchimsmita.Helloword.Infrastrcture\bin\Debug\Suchimsmita.Helloword.Infrastrcture.dll
+E:\GithubLocal\DotNetLearning\Console Applications\Suchimsmita.Console.Helloworld\Suchimsmita.Helloword.Infrastrcture\bin\Debug\Suchimsmita.Helloword.Infrastrcture.pdb
+E:\GithubLocal\DotNetLearning\Console Applications\Suchimsmita.Console.Helloworld\Suchimsmita.Helloword.Infrastrcture\obj\Debug\Suchimsmita.Helloword.Infrastrcture.csprojResolveAssemblyReference.cache
+E:\GithubLocal\DotNetLearning\Console Applications\Suchimsmita.Console.Helloworld\Suchimsmita.Helloword.Infrastrcture\obj\Debug\Suchimsmita.Helloword.Infrastrcture.dll
+E:\GithubLocal\DotNetLearning\Console Applications\Suchimsmita.Console.Helloworld\Suchimsmita.Helloword.Infrastrcture\obj\Debug\Suchimsmita.Helloword.Infrastrcture.pdb

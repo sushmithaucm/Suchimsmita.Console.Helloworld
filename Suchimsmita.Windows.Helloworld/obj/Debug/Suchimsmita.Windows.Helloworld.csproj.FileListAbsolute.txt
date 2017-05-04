@@ -1,0 +1,8 @@
+E:\GithubLocal\DotNetLearning\Console Applications\Suchimsmita.Console.Helloworld\Suchimsmita.Windows.Helloworld\bin\Debug\Suchimsmita.Windows.Helloworld.exe.config
+E:\GithubLocal\DotNetLearning\Console Applications\Suchimsmita.Console.Helloworld\Suchimsmita.Windows.Helloworld\bin\Debug\Suchimsmita.Windows.Helloworld.exe
+E:\GithubLocal\DotNetLearning\Console Applications\Suchimsmita.Console.Helloworld\Suchimsmita.Windows.Helloworld\bin\Debug\Suchimsmita.Windows.Helloworld.pdb
+E:\GithubLocal\DotNetLearning\Console Applications\Suchimsmita.Console.Helloworld\Suchimsmita.Windows.Helloworld\obj\Debug\Suchimsmita.Windows.Helloworld.csprojResolveAssemblyReference.cache
+E:\GithubLocal\DotNetLearning\Console Applications\Suchimsmita.Console.Helloworld\Suchimsmita.Windows.Helloworld\obj\Debug\Suchimsmita.Windows.Helloworld.Properties.Resources.resources
+E:\GithubLocal\DotNetLearning\Console Applications\Suchimsmita.Console.Helloworld\Suchimsmita.Windows.Helloworld\obj\Debug\Suchimsmita.Windows.Helloworld.csproj.GenerateResource.Cache
+E:\GithubLocal\DotNetLearning\Console Applications\Suchimsmita.Console.Helloworld\Suchimsmita.Windows.Helloworld\obj\Debug\Suchimsmita.Windows.Helloworld.exe
+E:\GithubLocal\DotNetLearning\Console Applications\Suchimsmita.Console.Helloworld\Suchimsmita.Windows.Helloworld\obj\Debug\Suchimsmita.Windows.Helloworld.pdb
